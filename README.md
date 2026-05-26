@@ -35,7 +35,4 @@ with interests in data analysis, web development, and technology.
 <a href="https://www.linkedin.com/in/salsabila-solihah-5399b5363/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:salsabilaa1903@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 

@@ -1,4 +1,4 @@
-# Hi 👋 I'm Salsabila
+# Hi 👋 I'm Salsa
 
 Big Data student at Kyungbok University and Global Korea Scholarship (GKS) recipient currently studying in South Korea,
 with interests in data analysis, web development, and technology.

@@ -6,15 +6,9 @@
 
 ## Tech Stack
 
-* Python
-* Java
-* SQL
-* HTML/CSS
-* JavaScript
-* FastAPI
-* SQLite
-* GitHub
-* Tableau
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,github,mysql,sqlite" />
+</p>
 
 ---
 
@@ -37,5 +31,10 @@
 
 ## Connect with Me
 
-* LinkedIn: (https://www.linkedin.com/in/salsabila-solihah-5399b5363/)
-* Email: salsabilaa1903@gmail.com
+<a href="https://www.linkedin.com/in/salsabila-solihah-5399b5363/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:salsabilaa1903@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+

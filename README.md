@@ -5,7 +5,7 @@ with interests in data analysis, web development, and technology.
 
 ---
 
-## Tech Stack
+## Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -21,7 +21,7 @@ with interests in data analysis, web development, and technology.
 
 ---
 
-## Currently Learning
+## Academic Interests
 
 * Data Analysis
 * Database Management
